@@ -23,6 +23,7 @@ html {
 .topnav {
     background-color: rgba(232,227,221,255);
     overflow: hidden;
+
 }
 
 .topnav a {
@@ -133,3 +134,32 @@ footer h5 {
    margin-left: 5px;
    align-items: center;
 }
+
+/* gallary */
+
+
+ .building {
+      width: 500px;
+      height: 500px;
+      margin-left: 100px;
+      margin-top: 10px;
+      border: 1px solid black;
+      
+ }
+
+ .logo {
+   width: 500px;
+   height: 500px;
+   margin-left: 70px;
+   margin-top: 10px;
+   border: 1px solid black;
+ }
+
+
+ .workin {
+   width: 500px;
+   height: 500px;
+   margin-left: 70px;
+   margin-top: 10px;
+   border: 1px solid black;
+ }
