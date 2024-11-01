@@ -1,0 +1,190 @@
+body, head {
+    padding: 0;
+    margin: 0;
+   background-color: rgb(196, 164, 132)
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+
+
+.header {
+    padding: 25px;
+    text-align:center;
+    background-color: rgb(53, 33, 0);
+    color: white;;
+    font-size: 30px;
+    font-family: monospace;
+    
+    }
+
+.topnav {
+    background-color: rgba(232,227,221,255);
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: rgb(13,13,13);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.topnav a:hover {
+    background-color: rgb(13,13,13);
+    color: lightgray;
+  }
+
+  .topnav a.active {
+    background-color: rgb(13,13,13);
+    color: lightgray;
+  }
+
+
+
+ .homeimg {
+    height: 600px;
+    width: 600px;
+    margin-top: 25px;
+    margin-left: 1300px;
+ }
+
+.news {
+   font-family: monospace;
+   text-align: center;
+   font-size: 75px;
+   margin-bottom: -700px;
+}
+
+ .ownerimg {
+    height: 600px;
+    width: 600px;
+    margin-top: 25px;
+    margin-left: 80px;
+ }
+
+ .mto {
+    font-family: monospace;
+    font-size: 45px;
+    margin-left: 705px;
+    margin-top: -575px;
+ }
+
+
+ .mto2 {
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: 705px;
+    margin-top: 45px;
+ }
+
+ .mto3 {
+   font-family: monospace;
+   font-size: 30px;
+   margin-left: 705px;
+   margin-top: 45px;
+}
+
+ .tommip {
+   font-family: monospace;
+   font-size: 25px;
+   margin-left: 705px;
+   margin-top: 30px;
+   margin-right: 10px;
+}
+
+.shanep {
+   font-family: monospace;
+   font-size: 25px;
+   margin-left: 705px;
+   margin-top: 30px;
+   margin-right: 10px;
+}
+
+
+.pressbuildingoldstuff {
+   margin-left: 200px;
+}
+
+footer {
+   background-color: rgb(53, 33, 0);
+   margin-top: 400px;
+ padding: 30px;
+ height: 140px;
+ text-align: center;
+}
+
+footer h5 {
+   color: white;
+
+   margin-bottom: 18px;
+   font-size: 15px;
+}
+
+.fblogo {
+   width: 50px;
+   margin-right: 5px;
+   margin-left: 5px;
+   align-items: center;
+}
+
+
+
+/* gallary */
+
+
+ .building {
+      width: 500px;
+      height: 500px;
+      margin-left: 100px;
+      margin-top: 10px;
+      border: 1px solid black;
+      
+ }
+
+ .logo {
+   width: 500px;
+   height: 500px;
+   margin-left: 70px;
+   margin-top: 10px;
+   border: 1px solid black;
+ }
+
+
+ .workin {
+   width: 500px;
+   height: 500px;
+   margin-left: 70px;
+   margin-top: 10px;
+   border: 1px solid black;
+ }
+
+.created {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 800px;
+   text-align: center;
+}
+
+
+.meet {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   text-align: center;
+}
+   figcaption {
+
+      color: black;
+      font-style: bold;
+      padding: 2px;
+      text-align: center;
+      text-size-adjust: large;
+   }
